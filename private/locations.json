@@ -1,0 +1,72 @@
+[
+  {
+    "address": "Times Square, Manhattan, NY 10036",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.9844722,
+        40.759011
+      ]
+    }
+  },
+  {
+    "address": "13000 S Dakota 244, Keystone, SD 57751",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -103.4546528,
+        43.8765683
+      ]
+    }
+  },
+  {
+    "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.03648269999999,
+        38.89767579999999
+      ]
+    }
+  },
+  {
+    "address": "Golden Gate Bridge, San Francisco, CA 94129",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -122.4748233,
+        37.8077873
+      ]
+    }
+  },
+  {
+    "address": "Stonehenge, A344, Amesbury, Wiltshire SP4 7DE, United Kingdom",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -1.8262155,
+        51.1788823
+      ]
+    }
+  },
+  {
+    "address": "Great Wall of China",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.456128,
+        37.48576
+      ]
+    }
+  },
+  {
+    "address": "Hollywood Sign, Los Angeles, CA",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.3215482,
+        34.1341151
+      ]
+    }
+  }
+]

@@ -1,0 +1,12 @@
+<template name="listLocations">
+	<div class="container">
+  
+		<h1>Locations</h1>
+
+		<ul class="list-group">
+		{{#each Locations}}
+			<li class="list-group-item">{{address}}</li>
+		{{/each}}
+		</ul>
+	</div>
+</template>
